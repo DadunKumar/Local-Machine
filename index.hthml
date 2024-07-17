@@ -1,4 +1,4 @@
-<link src=style.css rel=stylesheet >
+<link rel="stylesheet" href="style.css">
 <p>
 This is a new para
 </p>
